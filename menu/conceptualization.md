@@ -6,7 +6,7 @@ title: Conceptualización!
 
 A continuación se puede observar la conceptualización
 
-![conceptualizacion](/assets/img/conceptualizacion.jpg)
+![conceptualizacion](https://github.com/angel-marecos/mysite/blob/main/assets/img/conceptualizacion.jpg)
 
 
 
