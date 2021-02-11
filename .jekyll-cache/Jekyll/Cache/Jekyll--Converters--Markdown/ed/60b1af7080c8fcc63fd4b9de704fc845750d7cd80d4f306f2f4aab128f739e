@@ -1,0 +1,25 @@
+I"�<h3 id="story-boards">Story boards</h3>
+
+<p><img src="/assets/img/storyboard4.png" alt="storyboards" />
+<img src="/assets/img/storyboard3.png" alt="storyboards" />
+<img src="/assets/img/storyboard2.png" alt="storyboards" />
+<img src="/assets/img/storyboard1.png" alt="storyboards" /></p>
+
+<h3 id="bocetos-iniciales">Bocetos iniciales</h3>
+<h4 id="menú-principal">Menú principal</h4>
+<p><img src="/assets/img/menu-principal.png" alt="bocetos" /></p>
+
+<p>Menú principal para el usuario con rol de alumno. En este caso, el sistema notifica al usuario que escoja las materias a cursar según recomendaciones (materias disponibles según correlatividades y materias aprobadas).</p>
+
+<h4 id="vista-mis-materias">Vista Mis Materias</h4>
+<h4 id="opción-1">Opción 1</h4>
+<p><img src="/assets/img/mis-materias-op1.png" alt="bocetos" /></p>
+
+<p>Boceto 1 de la vista “Mis materias”. Las materias disponibles para cursar se disponen en una tabla, se muestra información como prioridad de la materia (según semestre) y fecha de vencimiento del PP.</p>
+
+<h4 id="opción-2">Opción 2</h4>
+<p><img src="/assets/img/mis-materias-op-2.png" alt="bocetos" /></p>
+
+<p>Boceto 2 de la vista “Mis materias”. Las materias se disponen en cards, en las cuales se muestra el nombre de la materia, semestre al cual pertenece y vencimiento del PP. Además, se aprecia un botón con un icono de ojo, que abrirá un modal que muestra información más interesante de la materia.</p>
+
+:ET

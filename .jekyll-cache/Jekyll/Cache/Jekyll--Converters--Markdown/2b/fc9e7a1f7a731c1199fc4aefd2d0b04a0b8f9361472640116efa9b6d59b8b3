@@ -1,0 +1,11 @@
+I"&<h3 id="descripción">Descripción</h3>
+<p>Brindar al estudiante un sistema que le facilite decidir qué materias le conviene cursar en el semestre teniendo en cuenta las correlatividades y organizar los horarios de clase de forma sencilla, según las materias a cursar, y que los secretarios de la facultad carguen los horarios en el sistema para que el software pueda basarse en ese horario.</p>
+<h3 id="problemas">Problemas</h3>
+<h4 id="general">General</h4>
+<p>La dificultad de poder organizarse con las distintas materias en cada semestre, ya sea por correlatividades, horarios que coinciden, materias aprobadas o materias por aprobar.</p>
+<h4 id="específicos">Específicos</h4>
+<ul>
+  <li>Un alumno que quiere cursar una materia de otro semestre no puede presentarse a clases debido a que otra materia de su semestre actual tiene el mismo horario.</li>
+  <li>Un alumno que no sabe qué materias le conviene cursar teniendo en cuenta la correlatividades de su carrera deberá analizarlo detalladamente según las mallas y es un trabajo tedioso.</li>
+</ul>
+:ET
